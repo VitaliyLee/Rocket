@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20ebf6906ac9cb146a1136b2ea02b436, type: 3}
+  m_Name: UFOStats
+  m_EditorClassIdentifier: 
+  _actorModel: {fileID: 2702208416443594466, guid: aa88ac9f9add69e43b6b5dd048d8c5b5, type: 3}
+  _moveSpeed: 3
+  _inertiaValue: 0
+  _rotateSpeed: 0

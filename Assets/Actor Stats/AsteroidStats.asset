@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20ebf6906ac9cb146a1136b2ea02b436, type: 3}
+  m_Name: AsteroidStats
+  m_EditorClassIdentifier: 
+  _actorModel: {fileID: 5297777212717014151, guid: 55e4d4997f7d6a740b8158972ea1e19c, type: 3}
+  _moveSpeed: 2
+  _inertiaValue: 0
+  _rotateSpeed: 0
